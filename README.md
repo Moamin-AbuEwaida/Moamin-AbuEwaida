@@ -1,6 +1,5 @@
 ### Hi there 👋   ![IMG_8143](https://user-images.githubusercontent.com/28728040/113122828-fcce9c00-91e1-11eb-9809-8e1d0194cd0d.jpg)
-[![Moamin's GitHub stats](https://github-readme-stats.vercel.app/apiMoamin-AbuEwaida)](https://github.com/Moamin-AbuEwaida/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida)](https://github.com/anuraghazra/github-readme-stats)
 
 This Moamin AbuEwaida, Palestinian living in Brussels-Belgium. lived in many countries starting from Palestine, Egypt, UAE-Dubai and now Belgium.
 I love to travel and wander around to know new cultures and meet new people.
