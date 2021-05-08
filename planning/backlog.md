@@ -2,20 +2,22 @@
 
 What the visitor/user of the website will get.
 
-## Must-Haves
+# Must-Have
 
-are necessary for basic usability:
+- Your name and job title
+- photo of you
+- your experience page
+- contact me page
+- **basic functionality**: header with  your name and job title, and a navbar with about me and contacts links. The body to contain a brief info about you, and a photo with Contact me button. Also footer with social media links 
 
-- **basic functionality**:
 
-## Should-Haves
+## Should-Have
+Achievements page where you talk about your work qualities and achievements
 
-will complete the user experience, but are not necessary:
-
-- **more advanced functions**: 
-
+- **more advanced functions**: Same header and footer along with the page body where you write your achievements and work qualities
+  
 ## Could-Haves
 
-would be really cool ... if there's time:
+page about your goals and values
 
-- **user story name**: 
+- **user story name**: Same header and footer along with the page body where you write about your goals and values 
