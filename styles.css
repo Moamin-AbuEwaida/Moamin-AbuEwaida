@@ -25,6 +25,8 @@ ul {
 .header_container {
   display: flex;
   width: 1100px;
+  background-color: rgb(238, 238, 238);
+
 }
 .header_container_text {
   width: 700px;
@@ -61,12 +63,16 @@ ul {
 }
  /*footer*/
 .footer_container {
-    height: 200px;
-    justify-content: center;
+  margin-top: 20px;
+  height: 100px;
+  justify-content: center;
+  background-color: rgb(238, 238, 238);
     
 }
 .footer_container_text {
     text-align: center;
+    margin: 20px;
+    padding: 10px;
 }
 
 .footer_container_icons{
@@ -79,4 +85,54 @@ ul {
 .footer_container_icons a:hover{
     color: grey;
     border: none;
+}
+/*home page body*/
+.content_container {
+  display: flex;
+  width: 1100px;
+  margin: 0;
+  padding: 0;
+}
+.myimage {
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 2px 2px black .5;
+
+}
+
+.content_contianer_text{
+  width: 600px;
+  font-size: large;
+
+}
+.content_contianer_text p{
+  margin: 10px;
+  padding: 10px;
+  height: max-content;
+}
+.content_contianer_text h1{
+  margin: 10px;
+  padding: 10px;
+}
+.content_contianer_text input{
+  text-transform: capitalize;
+  margin-left: 10px;
+}
+.content_contianer_text input:hover{
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+.spcl {
+  color: rgb(243, 28, 28);
+}
+.spcl1 {
+  color: darkgreen;
+  text-transform: uppercase;
+}
+.spcl1:hover{
+  cursor: pointer;
 }
