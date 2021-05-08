@@ -68,11 +68,10 @@ ul {
 .footer_container_text {
     text-align: center;
 }
-.footer_container_sm{
-justify-content: center;
-}
+
 .footer_container_icons{
     display: flex;
+    justify-content: center;
 }
 .footer_container_icons a{
     color: black;
