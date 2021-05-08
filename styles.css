@@ -64,7 +64,7 @@ ul {
  /*footer*/
 .footer_container {
   margin-top: 20px;
-  height: 100px;
+  height: 150px;
   justify-content: center;
   background-color: rgb(238, 238, 238);
     
@@ -135,4 +135,21 @@ ul {
 }
 .spcl1:hover{
   cursor: pointer;
+}
+/*Contacts page*/
+.contacts_content {
+  margin: 10px 0;
+  height: 550px;
+  justify-content: center;
+}
+.contacts_content h2 ,ul ,p{
+  padding: 10px;
+  margin: 10px;
+}
+.contacts_list{
+  font-size: 1rem;
+}
+.contacts_list a{
+  color: black;
+  text-transform: none;
 }
