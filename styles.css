@@ -153,3 +153,22 @@ ul {
   color: black;
   text-transform: none;
 }
+/*About page*/
+.about_container {
+  display: flex;
+  width: 1100px;
+  white-space: normal;
+}
+.about_container h3 {
+  margin: 10px;
+  padding: 10px;
+  color: dimgray;
+  border-bottom: dimgray 1px solid;
+}
+.about_container_prof .about_container_per {
+  width: 50%;
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  justify-content: left;
+}
