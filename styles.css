@@ -172,3 +172,29 @@ ul {
   padding: 20px;
   justify-content: left;
 }
+/*Experience page*/
+.exp_container {
+  display: flex;
+  width: 1100px;
+  white-space: normal;
+  flex-direction: row;
+}
+.exp_container h3 {
+  margin: 10px;
+  padding: 10px;
+  color: dimgray;
+  border-bottom: dimgray 1px solid;
+}
+
+.exp_container_prof {
+  width: 50%;
+  margin: 20px;
+  padding: 20px;
+  justify-content: left;
+}
+.exp_container_per {
+  width: 50%;
+  margin: 20px;
+  padding: 20px;
+  justify-content: left;
+}
