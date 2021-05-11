@@ -234,10 +234,12 @@ ul {
 
 }
 .image{
-width: 100px;
-height: 100px;
-padding: 10px;
-margin: 10px;
+
+width: 150px;
+height: 150px;
+margin-top: 20px;
+padding-top: 30px;
+justify-self: center;
 
 }
 .val_containter_cont h2{
