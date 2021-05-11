@@ -11,6 +11,4 @@ for software provider company.
 
 ---
 
-![wireframe]( )
-
-> [wireframe source]( )
+![wireframe](wireframe.png)
