@@ -98,7 +98,6 @@ ul {
   width: 400px;
   margin: 10px;
   padding: 10px;
-  box-shadow: 2px 2px black .5;
 
 }
 
@@ -143,6 +142,7 @@ ul {
   height: 550px;
   justify-content: center;
 }
+
 .contacts_content h2 ,ul ,p{
   padding: 10px;
   margin: 10px;
@@ -166,12 +166,26 @@ ul {
   color: dimgray;
   border-bottom: dimgray 1px solid;
 }
-.about_container_prof .about_container_per {
+
+
+.about_container_prof {
+  width: 50%;
+  margin: 20px;
+  padding: 20px;
+  justify-content: left;
+  background-color: white;
+  box-shadow: 0 0 20px 5px gray;
+  }
+.about_container_per{
   width: 50%;
   display: flex;
   margin: 20px;
   padding: 20px;
   justify-content: left;
+  background-color: white;
+  box-shadow: 0 0 20px 5px gray;
+
+=
 }
 /*Experience page*/
 .exp_container {
@@ -192,12 +206,16 @@ ul {
   margin: 20px;
   padding: 20px;
   justify-content: left;
+  background-color: white;
+  box-shadow: 0 0 20px 5px gray;
 }
 .exp_container_per {
   width: 50%;
   margin: 20px;
   padding: 20px;
   justify-content: left;
+  background-color: white;
+  box-shadow: 0 0 20px 5px gray;
 }
 /*values*/
 .val_container {
