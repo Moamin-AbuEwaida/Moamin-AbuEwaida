@@ -237,8 +237,8 @@ ul {
 .image{
 width: 150px;
 height: 150px;
-margin: 10px;
-padding-top: 10px;
+margin-top: 20px;
+padding-top: 30px;
 justify-self: center;
 }
 .val_containter_cont h2{
