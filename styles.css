@@ -24,14 +24,13 @@ ul {
 /*header*/
 .header_container {
   display: flex;
-  width: 100%;
+  width: 1100px;
   background-color: rgb(238, 238, 238);
 
 }
 .header_container_text {
   width: 700px;
   margin: 10px;
-  justify-content: left;
 }
 .header_container_text h1:hover{
     cursor: pointer;
@@ -39,9 +38,8 @@ ul {
 
 .header_container_nav {
   width: max-content;
-  position:relative;
-  margin-right: 10px;
-  display: flex;
+  position: relative;
+  margin: 10px;
 }
 .header_container_nav ul {
   display: flex;
@@ -168,21 +166,12 @@ ul {
   color: dimgray;
   border-bottom: dimgray 1px solid;
 }
-
-.about_container_prof {
+.about_container_prof .about_container_per {
   width: 50%;
+  display: flex;
   margin: 20px;
   padding: 20px;
   justify-content: left;
-  background-color: white;
-  
-}
-.about_container_per{
-  width: 50%;
-  margin: 20px;
-  padding: 20px;
-  justify-content: left;
-  background-color: white;
 }
 /*Experience page*/
 .exp_container {
@@ -203,14 +192,12 @@ ul {
   margin: 20px;
   padding: 20px;
   justify-content: left;
-  background-color: white;
 }
 .exp_container_per {
   width: 50%;
   margin: 20px;
   padding: 20px;
   justify-content: left;
-  background-color: white;
 }
 /*values*/
 .val_container {
@@ -221,20 +208,19 @@ ul {
 }
 .val_containter_cont{
   display: grid;
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   background-color: white;
-  margin: 50px;
-  box-shadow:0px 0px 5px 7px rgb(184, 181, 181);
-  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+
 }
 .image{
-width: 150px;
-height: 150px;
+width: 100px;
+height: 100px;
+padding: 10px;
 margin: 10px;
-padding-top: 10px;
-justify-self: center;
+
 }
 .val_containter_cont h2{
   text-align: center;
-}
