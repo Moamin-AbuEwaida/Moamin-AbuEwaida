@@ -24,7 +24,7 @@ ul {
 /*header*/
 .header_container {
   display: flex;
-  width: 100%;
+  width: 1100px;
   background-color: rgb(238, 238, 238);
 
 }
