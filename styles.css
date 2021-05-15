@@ -25,7 +25,7 @@ ul {
 }
 
 /*header*/
-.header {
+header {
   margin-bottom: 40px;
 }
 
@@ -86,7 +86,7 @@ margin: 0;
 }
 
  /*footer*/
-.footer {
+footer {
   margin: 0 auto;
 }
 
