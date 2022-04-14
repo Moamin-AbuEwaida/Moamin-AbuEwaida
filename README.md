@@ -11,6 +11,8 @@ I studied Telecommunication engineering in Egypt but may recent experience was i
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida&show_icons=true&theme=radical)
+
 <!--
 **Moamin-AbuEwaida/Moamin-AbuEwaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
