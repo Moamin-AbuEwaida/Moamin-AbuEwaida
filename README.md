@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida&theme=algolia&show_icons=true&theme=radical)
 
 ### Hi there 👋   
 
