@@ -9,9 +9,11 @@ I studied Telecommunication engineering in Egypt but may recent experience was i
 - 📫 How to reach me: @moaminsalamah 
 - ⚡ Fun fact: I don't like cats 🤔
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moamin-AbuEwaida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Moamin-AbuEwaida/Moamin-AbuEwaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
