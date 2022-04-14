@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moamin-AbuEwaida&show_icons=true&theme=radical)
+
 ### Hi there 👋   
 
 This Moamin AbuEwaida, Palestinian living in Brussels-Belgium. lived in many countries starting from Palestine, Egypt, UAE-Dubai and now Belgium.
